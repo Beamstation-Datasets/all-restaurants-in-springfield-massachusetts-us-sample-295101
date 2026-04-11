@@ -1,0 +1,12 @@
+{
+  "export_job_id": "ba7e9b2f-0398-4f1b-87aa-dba92e77d394",
+  "id_short": 295101,
+  "published_at": "2026-04-11T07:21:19Z",
+  "repo_name": "all-restaurants-in-springfield-massachusetts-us-sample-295101",
+  "sample_asset_name": "beamstation_295101_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/295101/beamstation_295101_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "831b1f21163bfc50ddc01ec67070bb18b37e580e7521bf96168286d8d829f228",
+  "sample_size_bytes": 115465,
+  "total_records": 495
+}
