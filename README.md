@@ -1,6 +1,6 @@
 # All Restaurants in Springfield, Massachusetts, US
 
-> Free BeamStation sample export with 51 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `295101` |
 | Location | Springfield |
 | Category | Restaurants |
-| Full dataset size | 519 records |
-| Free sample size | 51 records (9.83%) |
-| Last export | 2026-04-28T15:28:00.408877+00:00 |
+| Full dataset size | 537 records |
+| Free sample size | 53 records (9.87%) |
+| Last export | 2026-05-06T09:19:12.231400+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-springfield-massachusetts-us-sample-295101/releases/download/sample-latest/beamstation_295101_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
